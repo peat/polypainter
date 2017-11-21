@@ -1,10 +1,8 @@
 # PolyPainter
 
-PolyPainter attempts to recreate a given image using the randomized placement of colored polygons.
+PolyPainter attempts to recreate a given image using the randomized placement of colored polygons. The polygons are created according to configurable rules about colors, size, transparency, and shape.
 
-The polygons are created according to rules, but placed randomly on an empty canvas. As the canvas fills, it is compared to the target image, and retains the polygons that increase the fidelity of the image.
-
-The goal of PolyPainter is *not* to create an optimized representation of the source image, but rather to provide a very configurable system for creating interesting (dare we say beautiful) representations.
+The goal of PolyPainter is *not* to create an optimized representation of the source image, but rather to provide a very configurable system for creating interesting (dare we say beautiful) representations. Half the fun of creating an image is watching it render in real time!
 
 Right now this is _super extremely crazy early_ software that I've been hacking on in my spare time for personal use. Please hit me up on Twitter (@peat) if you have any questions at all. :)
 
